@@ -34,7 +34,7 @@ public class Chips extends Snack {
 	
 	// toString Method
 	public String toString(){
-		return super.toString() + "\n" + "Weight: " + weight + " oz";
+		return super.toString() + " " + "Weight: " + weight + " oz";
 	}
 	
 	// Getter and Setter

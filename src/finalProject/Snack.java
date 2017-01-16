@@ -40,7 +40,7 @@ public abstract class Snack extends Product implements Comparable<Product>{
 	
 	// toString method
 	public String toString(){
-		return name + "\nNutritional Rating: " + nutritionRating + "\nPrice: " + price + "\nQuantity: " + quantity;
+		return name + " Nutritional Rating: " + nutritionRating + " Price: " + price + " Quantity: " + quantity;
 	}
 	
 	// Setter and getter

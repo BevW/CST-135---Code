@@ -174,7 +174,7 @@ public class AClassForTrialCode {
 		// Hand entered them all because I could not get the above to work
 		// When a product is added I will have go make sure it is added to both this and it's 
 		// own class' array
-		Object [] allVendingMachineItems = {coffee1, coffee2, coffee3, coffee4, coffee5, coffee6, coffee7, coffee8,
+/*		Object [] allVendingMachineItems = {coffee1, coffee2, coffee3, coffee4, coffee5, coffee6, coffee7, coffee8,
 				coffee9, coffee10, juice1, juice2, juice3, juice4, juice5, juice6, juice7, juice8, juice9, juice10, 
 				milk1, milk2, milk3, milk4, milk5, milk6, milk7, milk8, milk9, milk10, soda2, soda2, soda3, soda4,
 				soda4, soda6, soda7, soda8, soda9, water1, water2, water3, water4, water5, water6, water7, water8,
